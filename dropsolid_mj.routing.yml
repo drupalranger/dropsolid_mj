@@ -1,0 +1,7 @@
+dropsolid_mj.settings:
+  path: '/admin/config/services/mailjet'
+  defaults:
+    _form: '\Drupal\dropsolid_mj\Form\MailjetSettingsForm'
+    _title: 'Mailjet settings'
+  requirements:
+    _permission: 'administer dropsolid_mj configuration'

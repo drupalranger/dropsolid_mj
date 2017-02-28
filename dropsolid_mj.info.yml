@@ -1,0 +1,7 @@
+name: Mailjet
+type: module
+description: Provides basic Mailjet subscription form in customizable block
+core: 8.x
+package: Custom
+version: 8.0
+configure: dropsolid_mj.settings

@@ -1,0 +1,3 @@
+administer dropsolid_mj configuration:
+  title: 'Access Mailjet Configuration'
+  description: 'Allows users to access Mailjet Integration settings'

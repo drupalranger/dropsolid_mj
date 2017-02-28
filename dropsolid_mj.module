@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * @file
+ * Contains dropsolid_mj.module
+ */
+
+/**
+ * Implements hook_theme()
+ */
+function dropsolid_mj_theme($existing, $type, $theme, $path) {
+  return array(
+    'dropsolid_mj_subscription_block' => array(
+      'variables' => array(
+        'settings' => array(),
+        'form' => NULL
+      ),
+    ),
+  );
+}

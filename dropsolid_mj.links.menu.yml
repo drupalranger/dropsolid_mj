@@ -1,0 +1,6 @@
+dropsolid_mj.settings:
+  title: 'Mailjet settings'
+  description: 'Configure API keys and lists for Mailjet serivce'
+  parent: system.admin_config_services
+  route_name: dropsolid_mj.settings
+  weight: 100
